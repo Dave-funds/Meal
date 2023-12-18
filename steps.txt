@@ -1,0 +1,8 @@
+clean up our basic projects
+install neccessary packages
+    1.Bootstrap
+    2.react-router-dom
+    3.axios
+    4.
+
+    
